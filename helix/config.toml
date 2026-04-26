@@ -1,0 +1,4 @@
+theme = "dracula_at_night"
+
+[keys.normal]
+space.g = ":sh kitty -e lazygit"
