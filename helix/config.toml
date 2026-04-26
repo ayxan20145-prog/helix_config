@@ -1,5 +1,5 @@
 # NEED TO INSTALL
-# sudo pacman -S git base-devel rustup helix rust-analyzer fd ripgrep && rustup component add rustfmt rust-src
+# sudo pacman -S git base-devel helix yazi lazygit kitty fish fd ripgrep rust-analyzer fzf zoxide && curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh && rustup component add rustfmt rust-src
 # set -Ux EDITOR helix
 
 theme = "dracula_at_night"
